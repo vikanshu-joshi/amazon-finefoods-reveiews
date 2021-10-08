@@ -23,7 +23,7 @@ Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.2] KNN Model with BOW<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.3] KNN Model with TFIDF<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.4] KNN Model with TFIDF weighted W2V<br><br>
-[6] KNN Model with reviews data<br>
+[6] KNN Model with summary data<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.1] Dividing data into train, test & CV<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.2] KNN Model with BOW<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.3] KNN Model with TFIDF<br>
